@@ -25,8 +25,7 @@
         "INFO_VERIFICATION_FAILED" : "La vérification a échoué. Veuillez réessayer.",
 
         "HELP_ENROLL_BARCODE" : "Veuillez scanner le code barre à l'aide d'une application d'authentification à deux facteurs sur votre smartphone ou autre appareil pour poursuivre le processus.",
-        "HELP_ENROLL_VERIFY"  : "Une fois le code à barres scanné, un code d'authentification à chiffres {DIGITS} s'affiche. Veuillez entrer ce code pour compléter l'activation de la méthode à deux facteurs.",
-
+        "HELP_ENROLL_VERIFY"  : "Après avoir scanné le code-barres, un code d'authentification à {DIGITS} chiffres s'affiche. Veuillez entrer ce code pour compléter l'activation de la méthode à deux facteurs.",
         "SECTION_HEADER_DETAILS" : "Détails :"
 
     }
